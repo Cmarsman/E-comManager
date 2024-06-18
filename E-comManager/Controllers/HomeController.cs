@@ -17,7 +17,6 @@ namespace E_comManager.Controllers
         {
             return View();
         }
-
         public IActionResult Privacy()
         {
             return View();
